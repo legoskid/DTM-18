@@ -12824,7 +12824,7 @@ div:is(.avatarWrapper_f77579, .topSection_dfb73b) .wrapper_edb6e0:is([aria-label
 }
 
 /*Badge*/
-.base__92a12:not(.iconBadge__2abac), .newBadge__68cd2 {
+/*.base__92a12:not(.iconBadge__2abac), .newBadge__68cd2 {
   box-sizing: border-box;
   background-image: none;
   background-color: var(--text-danger) !important;
@@ -12844,11 +12844,11 @@ div:is(.avatarWrapper_f77579, .topSection_dfb73b) .wrapper_edb6e0:is([aria-label
 }
 mask > use[href$="lower_badge_masks"] {
   opacity: 0;
-}
-.lowerBadge__669e7 {
+}*/
+/*.lowerBadge__669e7 {
   bottom: -2px;
   right: -2px;
-}
+}*/
 /*New*/
 .badgeContainer_b5a1eb {
   margin: 0;
