@@ -7,6 +7,8 @@
 * @source https://github.com/davart154/DTM-18
 */
 
+
+
 /*.preview-QJ3OG3:after {
   background: url(https://cdn.discordapp.com/attachments/1127830821903007776/1127830873350352937/luigi_dance.gif);
   background-size: 100% 173px;
@@ -1735,6 +1737,7 @@ img.icon__0cbed, .icon_c48348 {
 }
 .flowerStarContainer_d8d14b [d="M7.4,11.17,4,8.62,5,7.26l2,1.53L10.64,4l1.36,1Z"] {
   d: path("M6.84269 10.8166L11.8642 5.79504C12.0512 5.60704 12.0512 5.30404 11.8642 5.11704C11.6772 4.93104 11.3743 4.93104 11.1863 5.11704L6.52298 9.78123L4.88825 8.14734C4.68425 7.94434 4.35525 7.94434 4.15225 8.14734C3.94925 8.35134 3.94925 8.68034 4.15225 8.88334L6.08376 10.8158C6.09556 10.8308 6.10839 10.8453 6.12225 10.859C6.30925 11.047 6.61225 11.047 6.80025 10.859L6.82153 10.8378C6.82514 10.8344 6.82871 10.8309 6.83225 10.8273C6.83579 10.8238 6.83927 10.8202 6.84269 10.8166Z");
+	display:none;
 }
 .clickable__2d589:not(.hasBanner_e78601) .header__104ca:hover,
 .selected__0b1ad:not(.hasBanner_e78601) .header__104ca {
@@ -12668,6 +12671,7 @@ div:is(.avatarWrapper_f77579, .topSection_dfb73b) .wrapper_edb6e0:is([aria-label
   transform: none;
   transition: translate 0s;
   transition-delay: 5s;
+	line-height: 20px;
 }
 .tooltipContent__79a2d {
   padding: 8px 12px;
@@ -12675,6 +12679,8 @@ div:is(.avatarWrapper_f77579, .topSection_dfb73b) .wrapper_edb6e0:is([aria-label
 #app-mount .tooltip__01384,
 .guildNameText__16f3c {
   color: #dcddde;
+	font-weight: 600;
+    font-size: 16px;
 }
 #app-mount .tooltipPrimary_e5c00d {
   background-color: #000;
