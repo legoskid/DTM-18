@@ -12678,7 +12678,7 @@ div:is(.avatarWrapper_f77579, .topSection_dfb73b) .wrapper_edb6e0:is([aria-label
 }
 #app-mount .tooltip__01384,
 .guildNameText__16f3c {
-  color: #dcddde;
+  color: #ffffff;/*#dcddde;*/
 	font-weight: 600;
     font-size: 16px;
 }
