@@ -371,7 +371,7 @@
 	font-weight:600;
 }
 *:has(.toolbar__88c63) .tipTitle_a7615c:before {
-display:none;
+/*display:none;*/
   content: "Ready" !important;
 }
 .tipTitle_a7615c:after {
