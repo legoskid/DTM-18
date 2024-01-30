@@ -366,8 +366,13 @@
   line-height: 20px;
   font-weight: 400;
   font-style: italic;
-  content: "DM @dav154 to submit a message";
+  content: "Connecting...";
   margin-bottom: 10px;
+	font-weight:600;
+}
+*:has(.toolbar__88c63) .tipTitle_a7615c:before {
+display:none;
+  content: "Ready" !important;
 }
 .tipTitle_a7615c:after {
   color: hsl(218,calc(var(--saturation-factor, 1) * 4.6%),46.9%);
