@@ -1611,9 +1611,9 @@ html:is(.platform-win, .platform-osx) .scroller__3d071 {
   width: var(--dtm-18-list-items-item-guild-icon-size);
   height: var(--dtm-18-list-items-item-guild-icon-size);
 }
-.scroller__3d071 .wrapper__3af0b foreignObject {
+/*.scroller__3d071 .wrapper__3af0b foreignObject {
   mask: none !important;
-}
+}*/
 .scroller__3d071 .wrapper__3af0b .wrapper_d281dd {
   overflow: hidden;
   border-radius: var(--dtm-18-list-items-item-guild-icon-radius-round);
